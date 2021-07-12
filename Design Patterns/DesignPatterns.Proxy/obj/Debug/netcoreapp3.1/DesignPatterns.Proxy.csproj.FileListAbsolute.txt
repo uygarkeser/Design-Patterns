@@ -1,0 +1,12 @@
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\bin\Debug\netcoreapp3.1\DesignPatterns.Proxy.exe
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\bin\Debug\netcoreapp3.1\DesignPatterns.Proxy.deps.json
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\bin\Debug\netcoreapp3.1\DesignPatterns.Proxy.runtimeconfig.json
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\bin\Debug\netcoreapp3.1\DesignPatterns.Proxy.runtimeconfig.dev.json
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\bin\Debug\netcoreapp3.1\DesignPatterns.Proxy.dll
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\bin\Debug\netcoreapp3.1\DesignPatterns.Proxy.pdb
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\obj\Debug\netcoreapp3.1\DesignPatterns.Proxy.AssemblyInfoInputs.cache
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\obj\Debug\netcoreapp3.1\DesignPatterns.Proxy.AssemblyInfo.cs
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\obj\Debug\netcoreapp3.1\DesignPatterns.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\obj\Debug\netcoreapp3.1\DesignPatterns.Proxy.dll
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\obj\Debug\netcoreapp3.1\DesignPatterns.Proxy.pdb
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Proxy\obj\Debug\netcoreapp3.1\DesignPatterns.Proxy.genruntimeconfig.cache

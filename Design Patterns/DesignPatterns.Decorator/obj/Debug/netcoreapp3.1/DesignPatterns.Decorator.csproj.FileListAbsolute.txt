@@ -1,0 +1,12 @@
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\bin\Debug\netcoreapp3.1\DesignPatterns.Decorator.exe
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\bin\Debug\netcoreapp3.1\DesignPatterns.Decorator.deps.json
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\bin\Debug\netcoreapp3.1\DesignPatterns.Decorator.runtimeconfig.json
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\bin\Debug\netcoreapp3.1\DesignPatterns.Decorator.runtimeconfig.dev.json
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\bin\Debug\netcoreapp3.1\DesignPatterns.Decorator.dll
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\bin\Debug\netcoreapp3.1\DesignPatterns.Decorator.pdb
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\obj\Debug\netcoreapp3.1\DesignPatterns.Decorator.AssemblyInfoInputs.cache
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\obj\Debug\netcoreapp3.1\DesignPatterns.Decorator.AssemblyInfo.cs
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\obj\Debug\netcoreapp3.1\DesignPatterns.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\obj\Debug\netcoreapp3.1\DesignPatterns.Decorator.dll
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\obj\Debug\netcoreapp3.1\DesignPatterns.Decorator.pdb
+C:\Users\ukeser\source\repos\uygarkeser\Design Patterns\Design Patterns\DesignPatterns.Decorator\obj\Debug\netcoreapp3.1\DesignPatterns.Decorator.genruntimeconfig.cache
